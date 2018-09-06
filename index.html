@@ -1,5 +1,6 @@
+<!-- Made by Vinit Shahdeo -->
 <!DOCTYPE html>
-<html >
+<html>
 <head>
   <meta charset="UTF-8">
   <meta name="author" content="Vinit Shahdeo">
@@ -188,10 +189,17 @@ a:link {
     </style>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
-
+  <script>
+       function play()
+                {
+                    var audio = document.getElementById("audio");
+                    audio.play();
+                }
+   </script>
 </head>
 
-<body>
+<body onload="play()">
+<audio id="audio" src="http://soundbible.com/mp3/Appear-KP-1137861048.mp3" ></audio>
   <div class="content">
   <div class="welcomeText">
     <div class="welcome">
