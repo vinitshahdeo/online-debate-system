@@ -30,7 +30,7 @@ The source code of this project is written in **PHP**. So, you'll require **WAMP
 
 ## Instructions
 
-Extract the folder in *www* or *htdocs* directoryand run *localhost/speech.php*.
+Extract the folder in ***www*** or ***htdocs*** directory and run ***localhost/speech.php***.
 
 ## Need help?
 
