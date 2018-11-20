@@ -42,4 +42,4 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
 
 ## License
 
-MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/online-debate-system/blob/master/LICENSE))
+MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/online-debate-system/blob/master/LICENSE)
