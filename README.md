@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/online-debate-system.svg?style=social)](https://github.com/vinitshahdeo/online-debate-system/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/vinitshahdeo/online-debate-system.svg?style=social)](https://github.com/vinitshahdeo/online-debate-system/stargazers) [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/online-debate-system.svg?style=social)](https://github.com/vinitshahdeo/online-debate-system/network)
 
-An Online Debate System with Voice Recognition using Web Speech API. It predicts the ***"For the motion"*** and ***"Against the motion"*** using PHP library for Sentiment Analysis.
+An Online Debate System with Voice Recognition using Web Speech API. It converts speech to text and predicts the ***"For the motion"*** and ***"Against the motion"*** using PHP library for Sentiment Analysis.
 
 ![Generic badge](https://img.shields.io/badge/debate-system-orange.svg) 
 ![Generic badge](https://img.shields.io/badge/speech-api-yellowgreen.svg)
@@ -30,7 +30,7 @@ The source code of this project is written in **PHP**. So, you'll require **WAMP
 
 ## Instructions
 
-Extract the folder in ***www*** or ***htdocs*** directory and run ***localhost/speech.php***.
+Extract the folder in ***www*** or ***htdocs*** directory and run `localhost/speech.php`
 
 ## Need help?
 
