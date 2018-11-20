@@ -6,10 +6,10 @@ An Online Debate System with Voice Recognition using Web Speech API. It predicts
 
 ![Generic badge](https://img.shields.io/badge/debate-system-orange.svg) 
 ![Generic badge](https://img.shields.io/badge/speech-api-yellowgreen.svg)
-![Generic badge](https://img.shields.io/badge/sentiment-analysis-ff69b4.svg)
-[![Generic badge](https://img.shields.io/badge/view-demo-teal.svg)](https://vinitshahdeo.github.io/online-debate-system/speech.html) 
+![Generic badge](https://img.shields.io/badge/sentiment-analysis-ff69b4.svg) 
 
 #### Link for [demo](https://vinitshahdeo.github.io/online-debate-system/speech.html) 
+[![Generic badge](https://img.shields.io/badge/view-demo-teal.svg)](https://vinitshahdeo.github.io/online-debate-system/speech.html)
 
 ## Useful Links
 
@@ -17,6 +17,8 @@ An Online Debate System with Voice Recognition using Web Speech API. It predicts
 - [Web Speech API Source](https://github.com/w3c/speech-api)
 
 ## Requirements
+
+[![Generic badge](https://img.shields.io/badge/wamp-server-#2980b9.svg)](http://www.wampserver.com/en/) [![Generic badge](https://img.shields.io/badge/xampp-server-#c70039.svg)](https://www.apachefriends.org/download.html) [![Generic badge](https://img.shields.io/badge/mamp-server-#ff5733.svg)](https://www.mamp.info/en/)
 
 The source code of this project is written in **PHP**. So, you'll require **WAMP/XAMPP/MAP** to run this project.
 
