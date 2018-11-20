@@ -1,9 +1,16 @@
 # Online Debate System
+
+[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/online-debate-system.svg)](https://github.com/vinitshahdeo/online-debate-system/blob/master/LICENSE)
+
+[![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/online-debate-system.svg)](https://github.com/vinitshahdeo/online-debate-system/network)
+
+[![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/online-debate-system.svg)](https://github.com/vinitshahdeo/online-debate-system/network)
+
+An Online Debate System with Voice Recognition using Web Speech API. It predicts the ***"For the motion"*** and ***"Against the motion"** using PHP library for Sentiment Analysis.
+
 ![Generic badge](https://img.shields.io/badge/debate-system-orange.svg) 
 ![Generic badge](https://img.shields.io/badge/speech-api-yellowgreen.svg)
 ![Generic badge](https://img.shields.io/badge/sentiment-analysis-ff69b4.svg)
-
-###### An Online Debate System with Voice Recognition using Web Speech API. It predicts the ***"For the motion"*** and ***"Against the motion"** using PHP library for Sentiment Analysis.
 
 Link for [demo](https://vinitshahdeo.github.io/online-debate-system/speech.html)
 
