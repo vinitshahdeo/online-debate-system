@@ -18,7 +18,7 @@ An Online Debate System with Voice Recognition using Web Speech API. It predicts
 
 ## Requirements
 
-[![Generic badge](https://img.shields.io/badge/wamp-server-#2980B9.svg)](http://www.wampserver.com/en/) [![Generic badge](https://img.shields.io/badge/xampp-server-#c70039.svg)](https://www.apachefriends.org/download.html) [![Generic badge](https://img.shields.io/badge/mamp-server-#ff5733.svg)](https://www.mamp.info/en/)
+[![Generic badge](https://img.shields.io/badge/wamp-server-red.svg)](http://www.wampserver.com/en/) [![Generic badge](https://img.shields.io/badge/xampp-server-blue.svg)](https://www.apachefriends.org/download.html) [![Generic badge](https://img.shields.io/badge/mamp-server-lightgrey.svg)](https://www.mamp.info/en/)
 
 The source code of this project is written in **PHP**. So, you'll require **WAMP/XAMPP/MAP** to run this project.
 
