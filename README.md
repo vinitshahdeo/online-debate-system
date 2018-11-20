@@ -2,13 +2,13 @@
 
 [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/online-debate-system.svg?style=social)](https://github.com/vinitshahdeo/online-debate-system/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/vinitshahdeo/online-debate-system.svg?style=social)](https://github.com/vinitshahdeo/online-debate-system/stargazers) [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/online-debate-system.svg?style=social)](https://github.com/vinitshahdeo/online-debate-system/network)
 
-An Online Debate System with Voice Recognition using Web Speech API. It predicts the ***"For the motion"*** and ***"Against the motion"** using PHP library for Sentiment Analysis.
+An Online Debate System with Voice Recognition using Web Speech API. It predicts the ***"For the motion"*** and ***"Against the motion"*** using PHP library for Sentiment Analysis.
 
 ![Generic badge](https://img.shields.io/badge/debate-system-orange.svg) 
 ![Generic badge](https://img.shields.io/badge/speech-api-yellowgreen.svg)
 ![Generic badge](https://img.shields.io/badge/sentiment-analysis-ff69b4.svg)
 
-Link for [demo](https://vinitshahdeo.github.io/online-debate-system/speech.html)
+#### Link for [demo](https://vinitshahdeo.github.io/online-debate-system/speech.html)
 
 ## Useful Links
 
@@ -17,7 +17,7 @@ Link for [demo](https://vinitshahdeo.github.io/online-debate-system/speech.html)
 
 ## Requirements
 
-The source code of this project is written in *PHP*. So, you'll require **WAMP/XAMPP/MAP** to run this project.
+The source code of this project is written in **PHP**. So, you'll require **WAMP/XAMPP/MAP** to run this project.
 
 ## Need help?
 
