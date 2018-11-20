@@ -26,6 +26,12 @@ An Online Debate System with Voice Recognition using Web Speech API. It predicts
 
 The source code of this project is written in **PHP**. So, you'll require **WAMP/XAMPP/MAP** to run this project.
 
+## Installing 
+
+- Dowload [WAMP](http://www.wampserver.com/en/)
+- Download [XAMPP](https://www.apachefriends.org/download.html)
+- Downlaod [MAMP](https://www.mamp.info/en/)
+
 ## Need help?
 
 Feel free to contact me via [Facebook](https://www.facebook.com/vinit.shahdeo).
