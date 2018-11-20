@@ -1,6 +1,7 @@
 # Online Debate System
-[![Generic badge](https://img.shields.io/badge/debate-system-blue.svg)] 
-[![Generic badge](https://img.shields.io/badge/speech-api-blue.svg)] 
+![Generic badge](https://img.shields.io/badge/debate-system-orange.svg) 
+![Generic badge](https://img.shields.io/badge/speech-api-yellowgreen.svg)
+![Generic badge](https://img.shields.io/badge/sentiment-analysis-ff69b4.svg)
 
 ###### An Online Debate System with Voice Recognition using Web Speech API. It predicts the ***"For the motion"*** and ***"Against the motion"** using PHP library for Sentiment Analysis.
 
