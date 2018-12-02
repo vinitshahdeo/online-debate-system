@@ -20,13 +20,13 @@ An Online Debate System with Voice Recognition using Web Speech API. It converts
 
 [![Generic badge](https://img.shields.io/badge/wamp-server-red.svg)](http://www.wampserver.com/en/) [![Generic badge](https://img.shields.io/badge/xampp-server-blue.svg)](https://www.apachefriends.org/download.html) [![Generic badge](https://img.shields.io/badge/mamp-server-lightgrey.svg)](https://www.mamp.info/en/)
 
-The source code of this project is written in **PHP**. So, you'll require **WAMP/XAMPP/MAP** to run this project.
+The source code of this project is written in **PHP**. So, you'll require **WAMP/XAMPP/MAMP** to run this project.
 
 ## Installing 
 
 - Download [WAMP](http://www.wampserver.com/en/)
 - Download [XAMPP](https://www.apachefriends.org/download.html)
-- Downlaod [MAMP](https://www.mamp.info/en/)
+- Download [MAMP](https://www.mamp.info/en/)
 
 ## Instructions
 
