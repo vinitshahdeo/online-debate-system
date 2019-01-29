@@ -109,7 +109,7 @@
         var msg=document.getElementById('final_span').innerHTML;
         
         
-        var email="shreya.anand8888@gmail.com";
+        var email="vinitshahdeo@gmail.com";
         var subject="Debate Results";
         var url='mailto:'+email+'?subject='+subject+'&body='+msg+' thank you!';
         document.getElementById('email').innerHTML='<a href="'+url+'" target="_blank">CLICK TO CONFIRM</a>';
