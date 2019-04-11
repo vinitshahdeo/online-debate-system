@@ -30,6 +30,8 @@ The source code of this project is written in **`PHP`**. So, you'll require **`W
 
 ## Instructions
 
+[![GitHub top language](https://img.shields.io/github/languages/top/vinitshahdeo/online-debate-system.svg?logo=php&style=social)](https://github.com/vinitshahdeo/)
+
 Extract the folder in ***www*** or ***htdocs*** directory and run `localhost/speech.php`
 
 ## Need help?
