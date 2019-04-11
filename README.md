@@ -1,6 +1,6 @@
 # Online Debate System
 
-[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/online-debate-system.svg?style=social)](https://github.com/vinitshahdeo/online-debate-system/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/vinitshahdeo/online-debate-system.svg?style=social)](https://github.com/vinitshahdeo/online-debate-system/stargazers) [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/online-debate-system.svg?style=social)](https://github.com/vinitshahdeo/online-debate-system/network)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vinitshahdeo/online-debate-system.svg?logo=github&style=social)](https://github.com/vinitshahdeo/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/online-debate-system.svg?logo=github&style=social)](https://github.com/vinitshahdeo/) [![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/online-debate-system.svg?logo=github&style=social)](https://github.com/vinitshahdeo/) [![GitHub stars](https://img.shields.io/github/stars/vinitshahdeo/online-debate-system.svg?style=social)](https://github.com/vinitshahdeo/online-debate-system/stargazers) [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/online-debate-system.svg?style=social)](https://github.com/vinitshahdeo/online-debate-system/network)
 
 An Online Debate System with Voice Recognition using Web Speech API. It converts speech to text and predicts the ***"For the motion"*** and ***"Against the motion"*** using PHP library for Sentiment Analysis.
 
@@ -38,8 +38,10 @@ Feel free to contact me via [Facebook](https://www.facebook.com/vinit.shahdeo).
 
 Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
 
-[![Generic badge](https://img.shields.io/badge/facebook-add-blue.svg)](https://www.facebook.com/vinit.shahdeo) [![Generic badge](https://img.shields.io/badge/quora-ask-red.svg)](https://www.quora.com/profile/Vinit-Shahdeo-1) [![Generic badge](https://img.shields.io/badge/instagram-follow-yellow.svg)](https://www.instagram.com/vinitshahdeo/)
+[![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook)](https://www.facebook.com/vinit.shahdeo) [![Quora](https://img.shields.io/badge/Quora-ask-red.svg?logo=quora)](https://www.quora.com/profile/Vinit-Shahdeo-1) [![Instagram](https://img.shields.io/badge/Instagram-follow-yellow.svg?logo=instagram&logoColor=white)](https://www.instagram.com/vinitshahdeo/)
 
 ## License
 
 MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/online-debate-system/blob/master/LICENSE)
+
+[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/online-debate-system.svg?style=social&logo=github)](https://github.com/vinitshahdeo/online-debate-system/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo)
