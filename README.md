@@ -18,19 +18,19 @@ An Online Debate System with Voice Recognition using Web Speech API. It converts
 
 ## Requirements
 
-[![Generic badge](https://img.shields.io/badge/wamp-server-red.svg)](http://www.wampserver.com/en/) [![Generic badge](https://img.shields.io/badge/xampp-server-blue.svg)](https://www.apachefriends.org/download.html) [![Generic badge](https://img.shields.io/badge/mamp-server-lightgrey.svg)](https://www.mamp.info/en/)
+[![GitHub top language](https://img.shields.io/github/languages/top/vinitshahdeo/online-debate-system.svg?logo=php&style=social)](https://github.com/vinitshahdeo/)
 
 The source code of this project is written in **`PHP`**. So, you'll require **`WAMP/XAMPP/MAMP`** to run this project.
 
-## Installing 
+## Installing
+
+[![WAMP](https://img.shields.io/badge/wamp-server-red.svg)](http://www.wampserver.com/en/) [![XAMP](https://img.shields.io/badge/xampp-server-blue.svg)](https://www.apachefriends.org/download.html) [![MAMP](https://img.shields.io/badge/mamp-server-lightgrey.svg)](https://www.mamp.info/en/)
 
 - Download [WAMP](http://www.wampserver.com/en/)
 - Download [XAMPP](https://www.apachefriends.org/download.html)
 - Download [MAMP](https://www.mamp.info/en/)
 
 ## Instructions
-
-[![GitHub top language](https://img.shields.io/github/languages/top/vinitshahdeo/online-debate-system.svg?logo=php&style=social)](https://github.com/vinitshahdeo/)
 
 Extract the folder in ***www*** or ***htdocs*** directory and run `localhost/speech.php`
 
