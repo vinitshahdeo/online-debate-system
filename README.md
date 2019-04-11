@@ -32,6 +32,8 @@ The source code of this project is written in **`PHP`**. So, you'll require **`W
 
 ## Instructions
 
+[![chrome](https://img.shields.io/badge/Open-localhost/speech.php-lightgrey.svg?logo=google-chrome&style=popout&logoColor=red)](https://www.facebook.com/vinit.shahdeo)
+
 Extract the folder in ***www*** or ***htdocs*** directory and run `localhost/speech.php`
 
 ## Need help?
