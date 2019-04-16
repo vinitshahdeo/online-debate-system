@@ -38,11 +38,11 @@ Extract the folder in ***www*** or ***htdocs*** directory and run `localhost/spe
 
 ## Special Mention
 
-[![REPORT](https://img.shields.io/badge/download-Project%20Report-blue.svg?logo=microsoft-word&style=social)](https://github.com/vinitshahdeo/online-debate-system/raw/master/docs/AI%20Review-2.pdf) [![shreya](https://img.shields.io/badge/@ShreyaAnand-follow.svg?logo=github&style=social)](https://github.com/ShreyaAnand)
-
 Big thanks to [Shreya Anand](https://github.com/ShreyaAnand) for making the project report. Click [here](https://github.com/vinitshahdeo/online-debate-system/raw/master/docs/AI%20Review-2.pdf) to download the project report. 
 
 > You can also find the report inside `docs` folder.
+
+[![REPORT](https://img.shields.io/badge/download-Project%20Report-blue.svg?logo=microsoft-word&style=social)](https://github.com/vinitshahdeo/online-debate-system/raw/master/docs/AI%20Review-2.pdf) [![shreya](https://img.shields.io/badge/GitHub-@ShreyaAnand-follow.svg?logo=github&style=social)](https://github.com/ShreyaAnand)
 
 ## Need help?
 
