@@ -50,7 +50,7 @@ Feel free to contact me via [Facebook](https://www.facebook.com/vinit.shahdeo).
 
 Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
 
-[![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook)](https://www.facebook.com/vinit.shahdeo) [![Quora](https://img.shields.io/badge/Quora-ask-red.svg?logo=quora)](https://www.quora.com/profile/Vinit-Shahdeo-1) [![Instagram](https://img.shields.io/badge/Instagram-follow-yellow.svg?logo=instagram&logoColor=white)](https://www.instagram.com/vinitshahdeo/)
+[![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/vinit.shahdeo) [![Quora](https://img.shields.io/badge/Quora-ask-red.svg?logo=quora)](https://www.quora.com/profile/Vinit-Shahdeo-1) [![Instagram](https://img.shields.io/badge/Instagram-follow-yellow.svg?logo=instagram&logoColor=white)](https://www.instagram.com/vinitshahdeo/)
 
 ```bash
 
