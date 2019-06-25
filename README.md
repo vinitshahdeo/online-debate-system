@@ -91,3 +91,16 @@ ______      _               _   _               _
 MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/online-debate-system/blob/master/LICENSE)
 
 [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/online-debate-system.svg?style=social&logo=github)](https://github.com/vinitshahdeo/online-debate-system/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo)
+
+---------
+
+```javascript
+
+if (isAwesome) {
+    // thanks in advance :p
+    starThisRepository();
+}
+
+```
+
+-----------
