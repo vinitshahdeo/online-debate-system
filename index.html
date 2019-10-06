@@ -32,10 +32,22 @@
     }
 
     .width {
-      width: 40vw;
-      margin-left: 30vw;
       background-color: rgba(0, 0, 0, 0.4);
       border-radius: 50px;
+    }
+
+    @media only screen and (min-width: 1024px) {
+      .width {
+        width: 40vw;
+        margin-left: 30vw;
+      }
+    }
+
+    button {
+      height: 35px;
+      font-size: 16px;
+      font-weight: bold;
+      margin-bottom: 10px;
     }
   </style>
 </head>
@@ -47,6 +59,7 @@
       <h2>
         An Online Debate System with Voice Recognition using Web Speech API.
       </h2>
+      <button onclick="location.href = 'speech.php'">Start Debating!</button>
     </div>
   </div>
 </body>
