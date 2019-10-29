@@ -46,11 +46,15 @@ Big thanks to [Shreya Anand](https://github.com/ShreyaAnand) for making the proj
 
 ## Need help?
 
+[![Vinit Shahdeo](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/images/0)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/links/0)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/images/1)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/links/1)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/images/2)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/links/2)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/images/3)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/links/3)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/images/4)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/links/4)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/images/5)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/links/5)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/images/6)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/links/6)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/images/7)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/links/7)
+
+
 Feel free to contact me via [Facebook](https://www.facebook.com/vinit.shahdeo).
 
 Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
 
 [![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/vinit.shahdeo) [![Quora](https://img.shields.io/badge/Quora-ask-red.svg?logo=quora)](https://www.quora.com/profile/Vinit-Shahdeo-1) [![Instagram](https://img.shields.io/badge/Instagram-follow-yellow.svg?logo=instagram&logoColor=white)](https://www.instagram.com/vinitshahdeo/)
+
 
 ```bash
 
@@ -87,8 +91,6 @@ ______      _               _   _               _
 ```
 
 ## License
-
-[![Vinit Shahdeo](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/images/0)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/links/0)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/images/1)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/links/1)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/images/2)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/links/2)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/images/3)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/links/3)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/images/4)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/links/4)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/images/5)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/links/5)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/images/6)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/links/6)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/images/7)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/online-debate-system/links/7)
 
 **MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/online-debate-system/blob/master/LICENSE)**
 
