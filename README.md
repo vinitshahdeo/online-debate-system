@@ -4,6 +4,8 @@
 
 An Online Debate System with Voice Recognition using Web Speech API. It converts speech to text and predicts the ***"For the motion"*** and ***"Against the motion"*** using PHP library for Sentiment Analysis.
 
+<img src="https://pngimage.net/wp-content/uploads/2018/05/debate-png-7.png" width=30% height=30%/>
+
 ![Generic badge](https://img.shields.io/badge/debate-system-orange.svg) 
 ![Generic badge](https://img.shields.io/badge/speech-api-yellowgreen.svg)
 ![Generic badge](https://img.shields.io/badge/sentiment-analysis-ff69b4.svg) 
