@@ -7,12 +7,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <title>Online Debate System</title>
-  
-  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-  
+
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,800,900&display=swap" rel="stylesheet">
+
       <style>
-      html { 
-  background: url(img/debate.jpg) no-repeat center center fixed ; 
+      html {
+  background: url(img/debate.jpg) no-repeat center center fixed ;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -23,7 +23,7 @@
 body{
   overflow: none;
 }
-     
+
 *{
   margin:0;
   padding:0;
@@ -60,6 +60,7 @@ body{
   line-height:100px;
   transition:all .5s;
   color:rgb(255,82,82);
+  font-weight: 900;
 }
 /*taglines*/
 .subText{
@@ -68,13 +69,13 @@ body{
   position:relative;
   font-size:30px;
   overflow:hidden;
-  
+
 }
 .subText p{
   height:100%;
   line-height:100px;
   text-align:center;
-  color: #777;
+  color: #3c4245;
 
 }
 .subTexts{
@@ -99,9 +100,9 @@ body{
   margin:auto;
   opacity:0;
   border:none;
-  
+
   transition:all .5s;
-  
+
 
 }
 
@@ -123,18 +124,19 @@ input:focus{outline:none;}
   float:center;
   margin:auto;
   padding: 10px;
-  border:2px solid #777;;
+  border:2px solid #3c9d9b;;
   border-radius:50px;
   font-size:24px;
+  font-weight: 600;
   background:red;
-  background-color: #49afcd;
+  background-color: #52de97;
   background-image:linear-gradient(top, #5bc0de, #2f96b4);
   cursor:pointer;
   transition:all .5s;
 }
 
 .button:hover{
-  background: #2f96b4;
+  background: #c0ffb3;
   box-shadow:inset 0 1px 5px rgba(0,0,0,.3);
 }
 
@@ -164,7 +166,7 @@ input:focus{outline:none;}
   .button{font-size:12px}
 
 }
- 
+
 @media screen and (max-width:600px){
   .welcome,.subText,.sub{background:rgba(255,255,255,.3);}
   .welcome{border-radius:20px 20px 0 0;}
@@ -177,14 +179,14 @@ input:focus{outline:none;}
 }
 
 a:link {
-    color:rgb(255,82,82);
+    color: #394a6d;
     text-decoration: none;
   }
   a:visited {
-    color:rgb(255,82,82);
+    color: #394a6d;
   }
   a:hover {
-    color:rgb(255,82,82);
+    color: #394a6d;
   }
     </style>
 
@@ -212,20 +214,20 @@ a:link {
        </div>
     </div>
   </div>
-  
+
   <div class="form">
     <form class="sub">
       <center><a href="speech.php"><button class="button" value="Send"><a href="speech.php">Start</a></button></a></center>
     </form>
   </div>
-  
+
   <div class="social">
     <div class="follow">
       <p class="followUs">Made with Love by <a href="https://github.com/vinitshahdeo" target="_blank">Vinit Shahdeo</a></p>
     </div>
   </div>
 </div>
-  
+
     <script src="js/index.js"></script>
 
 </body>
