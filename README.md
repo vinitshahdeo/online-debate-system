@@ -1,4 +1,4 @@
-# Online Debate System
+# Online Debate System (An amazing project)
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vinitshahdeo/online-debate-system.svg?logo=github&style=social)](https://github.com/vinitshahdeo/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/online-debate-system.svg?logo=github&style=social)](https://github.com/vinitshahdeo/) [![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/online-debate-system.svg?style=social&logo=git)](https://github.com/vinitshahdeo/) [![GitHub stars](https://img.shields.io/github/stars/vinitshahdeo/online-debate-system.svg?style=social)](https://github.com/vinitshahdeo/online-debate-system/stargazers) [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/online-debate-system.svg?style=social&logo=git)](https://github.com/vinitshahdeo/online-debate-system/network)
 
