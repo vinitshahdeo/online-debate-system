@@ -215,7 +215,90 @@ a:link {
   
   <div class="form">
     <form class="sub">
-      <center><a href="speech.php"><button class="button" value="Send"><a href="speech.php">Start</a></button></a></center>
+      <center><a href="speech.php"><div class="Wrapper">
+  <div class="Button Button--start">
+    <button><span><a href="speech.php">Start</a></span></button> <style>
+    html,
+    body {
+    width: 100%;
+    height: 100%;
+          }
+
+    
+* {
+    outline: 0;
+}
+
+.Wrapper {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Button {
+    margin-bottom: 50px;
+    perspective: 600px;
+}
+
+.Button.Button--start {
+    width: 120px;
+    height: 45px;
+}
+
+.Button.Button--start button {
+    border-radius: 4px;
+}
+
+.Button.Button--select {
+    width: 60px;
+    height: 60px;
+}
+
+.Button.Button--select button {
+    border-radius: 50%;
+}
+
+button {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    box-shadow: 0px 0px 0px #750014;
+    background: radial-gradient(ellipse at center, #D60D2E 0%, #C20020 100%);
+    transition: transform 0.15s, box-shadow 0.15s;
+    transform: rotateX(0deg) translateY(0);
+    cursor: pointer;
+    -webkit-font-smoothing: antialiased;
+}
+
+button:hover {
+    box-shadow: 0px 5px 0px #750014;
+    border-radius: 8px;
+    transform: rotateX(30deg) translateY(0);
+}
+
+button:hover:active {
+    text-shadow: 0 0 4px #AD001D;
+    box-shadow: 0 1px 0 #423847;
+    background: radial-gradient(ellipse at center, #FF002B 0%, #ED0028 100%);
+    transition: transform 0.05s, box-shadow 0.05s;
+    transform: rotateX(30deg) translateY(4px);
+}
+
+button span {
+    position: relative;
+    font-size: 21px;
+    color: white;
+    text-transform: uppercase;
+    transform: translate3d(0, 0, 0);
+}
+</style>
+   </div>
     </form>
   </div>
   
