@@ -1,232 +1,67 @@
-<!-- Made by Vinit Shahdeo -->
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
   <meta charset="UTF-8">
-  <meta name="author" content="Vinit Shahdeo">
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Online Debate System</title>
-  
-  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-  
-      <style>
-      html { 
-  background: url(img/debate.jpg) no-repeat center center fixed ; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
 
+  <style>
+    .bg {
+      height: 100vh;
+      width: 100vw;
+      background-image: url(img/debate-home.jpg);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
 
-}
-body{
-  overflow: none;
-}
-     
-*{
-  margin:0;
-  padding:0;
-  font-family: 'Montserrat',Verdana, Arial, sans-serif;
+    .centered {
+      text-align: center;
+      padding-top: 30vh;
+    }
 
-}
+    .white {
+      color: white;
+    }
 
+    body {
+      font-family: 'Lato', sans-serif;
+    }
 
+    .width {
+      background-color: rgba(0, 0, 0, 0.4);
+      border-radius: 50px;
+    }
 
-[class*="brandico-"]:before {
-  font-family: 'Montserrat', sans-serif;
-}
+    @media only screen and (min-width: 1024px) {
+      .width {
+        width: 40vw;
+        margin-left: 30vw;
+      }
+    }
 
-
-
-.content{max-width:40%; max-height:50%;margin:100px auto;}
-
-.welcomeText,.form,.social{ width:100%; }
-/*welcome text*/
-.welcome{
-  height:100px;
-  position:relative;
-  border-bottom:1px solid;
-  overflow:hidden;
-}
-
-.greet{
-  width:100%;
-  height:100%;
-  position:absolute;
-  top:100%;
-  font-size:50px;
-  text-align:center;
-  line-height:100px;
-  transition:all .5s;
-  color:rgb(255,82,82);
-}
-/*taglines*/
-.subText{
-  width:100%;
-  height:100px;
-  position:relative;
-  font-size:30px;
-  overflow:hidden;
-  
-}
-.subText p{
-  height:100%;
-  line-height:100px;
-  text-align:center;
-  color: #777;
-
-}
-.subTexts{
-  width:100%;
-  position:absolute;
-  bottom:100%;
-  text-align:center;
-  overflow:hidden;
-  transition:all .5s;
-
-}
-/*FORM*/
-.form{
-  width:100%;
-  height:100px;
-  position:relative;
-}
-
-.sub{
-  width:90%;
-  height:50px;
-  margin:auto;
-  opacity:0;
-  border:none;
-  
-  transition:all .5s;
-  
-
-}
-
-.email{
-  width:70%;
-  height:70%;
-  margin:1% 0;
-  padding-left:10px;
-  background:none;
-  border:none;
-  font-size:20px;
-}
-
-input:focus{outline:none;}
-
-.button{
-  width:auto;
-  height:100%;
-  float:center;
-  margin:auto;
-  padding: 10px;
-  border:2px solid #777;;
-  border-radius:50px;
-  font-size:24px;
-  background:red;
-  background-color: #49afcd;
-  background-image:linear-gradient(top, #5bc0de, #2f96b4);
-  cursor:pointer;
-  transition:all .5s;
-}
-
-.button:hover{
-  background: #2f96b4;
-  box-shadow:inset 0 1px 5px rgba(0,0,0,.3);
-}
-
-/*footer-follow us*/
-.follow{
-  width:100%;
-  height:100px;
-  position:relative;
-  overflow:hidden;
-}
-.followUs{
-  width:100%;
-  height:100%;
-  position:absolute;
-  bottom:100%;
-  line-height:100px;
-  text-align:center;
-  font-size:24px;
-  color: #777;
-  opacity: 0.6;
-  transition:all .5s;
-}
-
-
-@media screen and (max-width:930px){
-  .subTexts p {font-size:20px}
-  .button{font-size:12px}
-
-}
- 
-@media screen and (max-width:600px){
-  .welcome,.subText,.sub{background:rgba(255,255,255,.3);}
-  .welcome{border-radius:20px 20px 0 0;}
-  .subText{border-radius:0 0 20px 20px;}
-  .sub{border:none;}
-  .greet{font-size:30px}
-  .subTexts p {font-size:16px;}
-  .button{font-size:8px;margin-right:-3%}
-
-}
-
-a:link {
-    color:rgb(255,82,82);
-    text-decoration: none;
-  }
-  a:visited {
-    color:rgb(255,82,82);
-  }
-  a:hover {
-    color:rgb(255,82,82);
-  }
-    </style>
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
-  <script>
-       function play()
-                {
-                    var audio = document.getElementById("audio");
-                    audio.play();
-                }
-   </script>
+    button {
+      height: 35px;
+      font-size: 16px;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+  </style>
 </head>
 
-<body onload="play()">
-<audio id="audio" src="mp3/audio.mp3" ></audio>
-  <div class="content">
-  <div class="welcomeText">
-    <div class="welcome">
-      <h1 class="greet">WELCOME</h1>
-    </div>
-    <div class="subText">
-      <div class="subTexts">
-        <p class="subscribe">Online Debate System</p>
-        <p class="soon">Start Debating online!!</p>
-       </div>
+<body class="bg">
+  <div class="centered white">
+    <div class="width">
+      <h1>Welcome to Online Debate System!</h1>
+      <h2>
+        An Online Debate System with Voice Recognition using Web Speech API.
+      </h2>
+      <button onclick="location.href = 'speech.php'">Start Debating!</button>
     </div>
   </div>
-  
-  <div class="form">
-    <form class="sub">
-      <center><a href="speech.php"><button class="button" value="Send"><a href="speech.php">Start</a></button></a></center>
-    </form>
-  </div>
-  
-  <div class="social">
-    <div class="follow">
-      <p class="followUs">Made with Love by <a href="https://github.com/vinitshahdeo" target="_blank">Vinit Shahdeo</a></p>
-    </div>
-  </div>
-</div>
-  
-    <script src="js/index.js"></script>
-
 </body>
+
 </html>
