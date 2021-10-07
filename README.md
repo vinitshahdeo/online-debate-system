@@ -2,6 +2,8 @@
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/vinitshahdeo/online-debate-system.svg?logo=github&style=social)](https://github.com/vinitshahdeo/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/online-debate-system.svg?logo=github&style=social)](https://github.com/vinitshahdeo/) [![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/online-debate-system.svg?style=social&logo=git)](https://github.com/vinitshahdeo/) [![GitHub stars](https://img.shields.io/github/stars/vinitshahdeo/online-debate-system.svg?style=social)](https://github.com/vinitshahdeo/online-debate-system/stargazers) [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/online-debate-system.svg?style=social&logo=git)](https://github.com/vinitshahdeo/online-debate-system/network)
 
+-------
+
 An Online Debate System with Voice Recognition using Web Speech API. It converts speech to text and predicts the ***"For the motion"*** and ***"Against the motion"*** using PHP library for Sentiment Analysis.
 
 <img src="./debatelogo.png" width=30% height=30%/>
@@ -13,16 +15,23 @@ An Online Debate System with Voice Recognition using Web Speech API. It converts
 #### Link for [demo](https://vinitshahdeo.github.io/online-debate-system/speech.html) 
 [![Generic badge](https://img.shields.io/badge/view-demo-teal.svg)](https://vinitshahdeo.github.io/online-debate-system/speech.html)
 
+
+-------
+
 ## Useful Links
 
 - [Web Speech API Documentation](https://w3c.github.io/speech-api/speechapi.html)
 - [Web Speech API Source](https://github.com/w3c/speech-api)
+
+-------
 
 ## Requirements
 
 [![GitHub top language](https://img.shields.io/github/languages/top/vinitshahdeo/online-debate-system.svg?logo=php&style=social)](https://github.com/vinitshahdeo/)
 
 The source code of this project is written in **`PHP`**. So, you'll require **`WAMP/XAMPP/MAMP`** to run this project.
+
+-------
 
 ## Installing
 
@@ -38,6 +47,8 @@ The source code of this project is written in **`PHP`**. So, you'll require **`W
 
 Extract the folder in ***www*** or ***htdocs*** directory and run `localhost/speech.php`
 
+------
+
 ## Special Mention
 
 Big thanks to [Shreya Anand](https://github.com/ShreyaAnand) for making the project report. Click [here](https://github.com/vinitshahdeo/online-debate-system/raw/master/docs/AI%20Review-2.pdf) to download the project report. 
@@ -45,6 +56,8 @@ Big thanks to [Shreya Anand](https://github.com/ShreyaAnand) for making the proj
 > You can also find the report inside `docs` folder.
 
 [![REPORT](https://img.shields.io/badge/download-Project%20Report-blue.svg?logo=microsoft-word&style=social)](https://github.com/vinitshahdeo/online-debate-system/raw/master/docs/AI%20Review-2.pdf) [![shreya](https://img.shields.io/badge/GitHub-@ShreyaAnand-follow.svg?logo=github&style=social)](https://github.com/ShreyaAnand)
+
+-------
 
 ## Need help?
 
@@ -94,6 +107,8 @@ ______      _               _   _               _
 
 
 ```
+
+------
 
 ## License
 
